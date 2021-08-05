@@ -6,7 +6,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Topic |
 |---|---|---|
-| | Shakeel Gavioli-Akilagun | Testing for changepoints using the multi-resolution norm |
+| | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/dd-mm-yy-FirstName-LastName.md) |
 | | Camilo Cardenas-Hurtado | |
 | | Patrick Aschermayr | |
 | | Jing Han Tee | |
