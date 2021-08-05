@@ -6,11 +6,8 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Topic |
 |---|---|---|
-| | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/dd-mm-yy-Shakeel-Gavioli-Akilagun.html) |
-| | Camilo Cardenas-Hurtado | |
-| | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/dd-mm-yy-Patrick-Aschermayr.html) |
-| | Jing Han Tee | |
-| | Anica Kostic | |
+| TBA | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/dd-mm-yy-Shakeel-Gavioli-Akilagun.html) |
+| TBA | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/dd-mm-yy-Patrick-Aschermayr.html) |
 
 ### Previous Talks
 
