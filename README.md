@@ -1,6 +1,6 @@
 ## About
 
-Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. If you are interesting in joining us to discuss your research, or just attending one of our meetings, feel free to email...
+Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. If you are interesting in joining us to discuss your research, or just attending one of our meetings, feel free to email [Patrick](mailto:p.Aschermayr@lse.ac.uk) or [Camilo](mailto:c.a.cardenas-hurtado@lse.ac.uk). 
 
 ### Upcoming Talks
 
