@@ -1,6 +1,6 @@
 ## About
 
-Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. If you are interesting in joining us to discuss your research feel free to email [Patrick](mailto:p.Aschermayr@lse.ac.uk) or [Camilo](mailto:c.a.cardenas-hurtado@lse.ac.uk). People wanting to attend the reading group without presenting their work are also very much welcome! 
+Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. If you are interested in joining us to discuss your research feel free to email [Patrick](mailto:p.Aschermayr@lse.ac.uk) or [Camilo](mailto:c.a.cardenas-hurtado@lse.ac.uk). Anyone wanting to attend the reading group without presenting their work is also very welcome! 
 
 ### Upcoming Talks
 
