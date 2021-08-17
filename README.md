@@ -8,6 +8,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 |---|---|---|
 | TBA | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/dd-mm-yy-Shakeel-Gavioli-Akilagun.html) |
 | TBA | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/dd-mm-yy-Patrick-Aschermayr.html) |
+| TBA | Camilo Cardenas-Hurtado | [Automatic selection of tuning parameters in Penalised ML estimation for Latent Variable Models](talks/dd-mm-yy-Camilo-Cardenas-Hurtado.html) |
 
 ### Previous Talks
 
