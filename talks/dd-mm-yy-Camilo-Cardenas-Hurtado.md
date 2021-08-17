@@ -6,6 +6,6 @@ Regularisation techniques require to select a (vector of) hyperparameters, calle
 
 In this session we will talk about:
 
-The role of PML estimation and a parallel comparison with rotation techniques,
-Types of penalties and their (very handy) quadratic approximation,
-Automatic selection of the tuning parameters by an approximate AIC minimization
+* The role of PML estimation and a parallel comparison with rotation techniques
+* Types of penalties and their (very handy) quadratic approximation
+* Automatic selection of the tuning parameters by an approximate AIC minimization
