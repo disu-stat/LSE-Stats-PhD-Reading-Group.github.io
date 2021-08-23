@@ -6,7 +6,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Topic |
 |---|---|---|
-| TBA | Camilo Cardenas-Hurtado | [Automatic selection of tuning parameters in Penalised ML estimation for Latent Variable Models](talks/26-08-2021-Camilo-Cardenas-Hurtado.html) |
+| 26-08-2021 | Camilo Cardenas-Hurtado | [Automatic selection of tuning parameters in Penalised ML estimation for Latent Variable Models](talks/26-08-2021-Camilo-Cardenas-Hurtado.html) |
 | TBA | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/dd-mm-yy-Shakeel-Gavioli-Akilagun.html) |
 | TBA | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/dd-mm-yy-Patrick-Aschermayr.html) |
 
