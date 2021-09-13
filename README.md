@@ -6,9 +6,10 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Topic |
 |---|---|---|
-| 09-09-2021 | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/09-09-2021-Patrick-Aschermayr.html) |
+| 16-09-2021 | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/09-09-2021-Patrick-Aschermayr.html) |
 | 23-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/23-09-2021-Shakeel-Gavioli-Akilagun.html) |
-| TBA | Anica Kostic | TBA | 
+| 07-10-2021 | Anica Kostic | TBA | 
+| 21-10-2021 | Eduardo Ferioli Gomes | TBA |
 
 ### Previous Talks
 
