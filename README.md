@@ -6,13 +6,13 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Topic |
 |---|---|---|
-| 16-09-2021 | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/09-09-2021-Patrick-Aschermayr.html) |
-| 23-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/23-09-2021-Shakeel-Gavioli-Akilagun.html) |
-| 07-10-2021 | Anica Kostic | TBA | 
-| 21-10-2021 | Eduardo Ferioli Gomes | TBA |
+| 30-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/30-09-2021-Shakeel-Gavioli-Akilagun.html) |
+| 14-10-2021 | Anica Kostic | TBA | 
+| 28-10-2021 | Eduardo Ferioli Gomes | TBA |
 
 ### Previous Talks
 
 | Date | Speaker | Topic |
 |---|---|---|
 | 26-08-2021 | Camilo Cardenas-Hurtado | [Automatic selection of tuning parameters in Penalised ML estimation for Latent Variable Models](talks/26-08-2021-Camilo-Cardenas-Hurtado.html)|
+| 16-09-2021 | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/09-09-2021-Patrick-Aschermayr.html) |
