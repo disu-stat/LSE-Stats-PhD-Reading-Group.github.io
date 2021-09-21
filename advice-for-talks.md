@@ -1,4 +1,4 @@
-# Some suggestions on giving a talk
+# Some suggestions on giving a talk ☺
 
 Your talk should be around 60 minutes long, with some time left over questions. The only restriction on the topic is that it should be in some way related to your research. For example you could present potential strategies for a tricky proof, software libraries you have built during your research, or a piece of interesting data analysis. 
 
