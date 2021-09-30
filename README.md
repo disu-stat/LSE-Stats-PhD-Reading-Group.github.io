@@ -11,6 +11,7 @@ If you are preparing a talk see [here](advice-for-talks.html) for some suggestio
 | 30-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/30-09-2021-Shakeel-Gavioli-Akilagun.html) |
 | 14-10-2021 | Anica Kostic | TBA | 
 | 28-10-2021 | Eduardo Ferioli Gomes | TBA |
+| 11-11-2021 | Jing Han Tee | TBA |
 
 ### Previous Talks
 
