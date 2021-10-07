@@ -8,7 +8,6 @@ If you are preparing a talk see [here](advice-for-talks.html) for some suggestio
 
 | Date | Speaker | Topic |
 |---|---|---|
-| 30-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/30-09-2021-Shakeel-Gavioli-Akilagun.html) |
 | 14-10-2021 | Anica Kostic | TBA | 
 | 28-10-2021 | Eduardo Ferioli Gomes | TBA |
 | 11-11-2021 | Jing Han Tee | TBA |
@@ -19,3 +18,4 @@ If you are preparing a talk see [here](advice-for-talks.html) for some suggestio
 |---|---|---|
 | 26-08-2021 | Camilo Cardenas-Hurtado | [Automatic selection of tuning parameters in Penalised ML estimation for Latent Variable Models](talks/26-08-2021-Camilo-Cardenas-Hurtado.html)|
 | 16-09-2021 | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/09-09-2021-Patrick-Aschermayr.html) |
+| 30-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/30-09-2021-Shakeel-Gavioli-Akilagun.html) |
