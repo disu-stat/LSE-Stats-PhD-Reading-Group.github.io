@@ -8,7 +8,8 @@ If you are preparing a talk see [here](advice-for-talks.html) for some suggestio
 
 | Date | Speaker | Topic |
 |---|---|---|
-| 14-10-2021 | Anica Kostic | TBA | 
+| 14-10-2021 | Anica Kostic | [Change-Point Ideas in Multiple Testing: estimating the proportion of false 
+null hypotheses](talks/13-10-2021-Anica-Kostic.html) | 
 | 28-10-2021 | Eduardo Ferioli Gomes | TBA |
 | 11-11-2021 | Jing Han Tee | TBA |
 
