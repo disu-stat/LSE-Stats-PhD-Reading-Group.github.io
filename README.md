@@ -8,7 +8,6 @@ If you are preparing a talk see [here](advice-for-talks.html) for some suggestio
 
 | Date | Speaker | Topic |
 |---|---|---|
-| 28-10-2021 | Eduardo Ferioli Gomes | [High Frequency Modelling in Kyle-Back Model](talks/28-10-2021-Eduardo-Ferioli-Gomes.html)|
 | 11-11-2021 | Jing Han Tee | TBA |
 | 25-11-2021 | Zezhun Chen | TBA | 
 
@@ -20,3 +19,4 @@ If you are preparing a talk see [here](advice-for-talks.html) for some suggestio
 | 16-09-2021 | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/09-09-2021-Patrick-Aschermayr.html) |
 | 30-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/30-09-2021-Shakeel-Gavioli-Akilagun.html) |
 | 14-10-2021 | Anica Kostic | [Change-Point Ideas in Multiple Testing: estimating the proportion of false null hypotheses](talks/14-10-2021-Anica-Kostic.html) | 
+| 28-10-2021 | Eduardo Ferioli Gomes | [High Frequency Modelling in Kyle-Back Model](talks/28-10-2021-Eduardo-Ferioli-Gomes.html)|
