@@ -8,8 +8,8 @@ If you are interested in joining us to discuss your research feel free to email 
 
 | Date | Speaker | Topic |
 |---|---|---|
-| 11-11-2021 | Jing Han Tee | TBA |
-| 25-11-2021 | Zezhun Chen | TBA | 
+| 11-11-2021 | Jing Han Tee | [Local Times of Brownian Motion](talks/12-11-2021-Jing-Han-Tee.html) |
+| 25-11-2021 | Zezhun Chen | TBA |
 
 ### Previous Talks
 
@@ -18,5 +18,5 @@ If you are interested in joining us to discuss your research feel free to email 
 | 26-08-2021 | Camilo Cardenas-Hurtado | [Automatic selection of tuning parameters in Penalised ML estimation for Latent Variable Models](talks/26-08-2021-Camilo-Cardenas-Hurtado.html)|
 | 16-09-2021 | Patrick Aschermayr | [Implementing Sequential Parameter Estimation](talks/09-09-2021-Patrick-Aschermayr.html) |
 | 30-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/30-09-2021-Shakeel-Gavioli-Akilagun.html) |
-| 14-10-2021 | Anica Kostic | [Change-Point Ideas in Multiple Testing: estimating the proportion of false null hypotheses](talks/14-10-2021-Anica-Kostic.html) | 
+| 14-10-2021 | Anica Kostic | [Change-Point Ideas in Multiple Testing: estimating the proportion of false null hypotheses](talks/14-10-2021-Anica-Kostic.html) |
 | 28-10-2021 | Eduardo Ferioli Gomes | [High Frequency Modelling in Kyle-Back Model](talks/28-10-2021-Eduardo-Ferioli-Gomes.html)|
