@@ -8,8 +8,8 @@ If you are interested in joining us to discuss your research feel free to email 
 
 | Date | Speaker | Topic |
 |---|---|---|
-| 11-11-2021 | Jing Han Tee | [Local Times of Brownian Motion](talks/12-11-2021-Jing-Han-Tee.html) |
-| 25-11-2021 | Zezhun Chen | TBA |
+| 12-11-2021 | Jing Han Tee | [Local Times of Brownian Motion](talks/12-11-2021-Jing-Han-Tee.html) |
+| 26-11-2021 | Zezhun Chen | TBA |
 
 ### Previous Talks
 
