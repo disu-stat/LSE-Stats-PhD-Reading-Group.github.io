@@ -8,7 +8,6 @@ If you are interested in joining us to discuss your research feel free to email 
 
 | Date | Speaker | Topic |
 |---|---|---|
-| 12-11-2021 | Jing Han Tee | [Local Times of Brownian Motion](talks/12-11-2021-Jing-Han-Tee.html) |
 | 26-11-2021 | Zezhun Chen | TBA |
 
 ### Previous Talks
@@ -20,3 +19,4 @@ If you are interested in joining us to discuss your research feel free to email 
 | 30-09-2021 | Shakeel Gavioli-Akilagun | [Testing for changepoints using the multi-resolution norm](talks/30-09-2021-Shakeel-Gavioli-Akilagun.html) |
 | 14-10-2021 | Anica Kostic | [Change-Point Ideas in Multiple Testing: estimating the proportion of false null hypotheses](talks/14-10-2021-Anica-Kostic.html) |
 | 28-10-2021 | Eduardo Ferioli Gomes | [High Frequency Modelling in Kyle-Back Model](talks/28-10-2021-Eduardo-Ferioli-Gomes.html)|
+| 12-11-2021 | Jing Han Tee | [Local Times of Brownian Motion](talks/12-11-2021-Jing-Han-Tee.html) |
