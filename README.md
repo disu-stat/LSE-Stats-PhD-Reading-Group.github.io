@@ -8,7 +8,7 @@ If you are interested in joining us to discuss your research feel free to email 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 26-11-2021 | Zezhun Chen | probability | TBA |
+| 26-11-2021 | Zezhun Chen | probability | [Integer-Value Time Series](talks/26-11-2021-Zezhun-Chen.html) |
 
 ### Previous Talks
 
