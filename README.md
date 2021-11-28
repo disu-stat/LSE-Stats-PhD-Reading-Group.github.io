@@ -6,9 +6,7 @@ If you are interested in joining us to discuss your research feel free to email 
 
 ### Upcoming Talks
 
-| Date | Speaker | Research Group | Topic |
-|---|---|---|---|
-| 26-11-2021 | Zezhun Chen | probability | [Integer-Value Time Series](talks/26-11-2021-Zezhun-Chen.html) |
+Check back in 2022!
 
 ### Previous Talks
 
@@ -20,3 +18,4 @@ If you are interested in joining us to discuss your research feel free to email 
 | 14-10-2021 | Anica Kostic | time series | [Change-Point Ideas in Multiple Testing: estimating the proportion of false null hypotheses](talks/14-10-2021-Anica-Kostic.html) |
 | 28-10-2021 | Eduardo Ferioli Gomes | probability | [High Frequency Modelling in Kyle-Back Model](talks/28-10-2021-Eduardo-Ferioli-Gomes.html)|
 | 12-11-2021 | Jing Han Tee | probability | [Local Times of Brownian Motion](talks/12-11-2021-Jing-Han-Tee.html) |
+| 26-11-2021 | Zezhun Chen | probability | [Integer-Value Time Series](talks/26-11-2021-Zezhun-Chen.html) |
