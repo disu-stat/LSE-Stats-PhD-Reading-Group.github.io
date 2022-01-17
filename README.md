@@ -6,7 +6,10 @@ If you are interested in joining us to discuss your research feel free to email 
 
 ### Upcoming Talks
 
-Check back in 2022!
+| Date | Speaker | Research Group | Topic |
+|---|---|---|---|
+| TBA | Sahoko Ishida | social statistics | TBA |
+| TBA | Qin Fang | time series | TBA |
 
 ### Previous Talks
 
