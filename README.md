@@ -1,12 +1,13 @@
 ## About
 
-Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. Anyone wanting to attend the reading group without presenting their work is also very welcome!If you are interested in joining us to discuss your research feel free to email [Patrick](mailto:p.Aschermayr@lse.ac.uk), [Camilo](mailto:c.a.cardenas-hurtado@lse.ac.uk), or [Shakeel](mailto:s.a.gavioli-akilagun@lse.ac.uk). 
+Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. Anyone wanting to attend the reading group without presenting their work is also very welcome!If you are interested in joining us to discuss your research feel free to email [Patrick](mailto:p.Aschermayr@lse.ac.uk), [Camilo](mailto:c.a.cardenas-hurtado@lse.ac.uk), or [Shakeel](mailto:s.a.gavioli-akilagun@lse.ac.uk).
 
 ### Upcoming Talks
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
 | 11-02-2022 | Sahoko Ishida | social statistics | [Gaussian Process Models for Spatial and Spatio-temporal Data](talks/11-02-2022-Sahoko-Ishida.html) |
+|25-02-2022 | Giuseppe Alfonzetti | social statistics | TBA |
 
 ### Previous Talks
 
