@@ -9,7 +9,6 @@ If you are interested in joining us to discuss your research feel free to email 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
 | 11-02-2022 | Sahoko Ishida | social statistics | [Gaussian Process Models for Spatial and Spatio-temporal Data](talks/11-02-2022-Sahoko-Ishida.html) |
-| 25-02-2022 | Qin Fang | time series | TBA |
 
 ### Previous Talks
 
