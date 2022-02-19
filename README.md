@@ -7,7 +7,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
 | 11-02-2022 | Sahoko Ishida | social statistics | [Gaussian Process Models for Spatial and Spatio-temporal Data](talks/11-02-2022-Sahoko-Ishida.html) |
-|25-02-2022 | Giuseppe Alfonzetti | social statistics | TBA |
+|25-02-2022 | Giuseppe Alfonzetti | social statistics | [Composite likelihood methods and surroundings](talks/25-02-2022-Giuseppe-Alfonzetti.html) |
 
 ### Previous Talks
 
