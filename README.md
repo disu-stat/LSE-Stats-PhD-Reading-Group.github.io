@@ -17,4 +17,4 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 ### Advice for speakers
 
-If you are preparing a talk see [here](advice-for-talks.html) for some suggestions on giving a good talk.
+If you are preparing a talk see [here](advice-for-talks.html) for some suggestions.
