@@ -10,6 +10,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | 25-02-2022 | Giuseppe Alfonzetti | social statistics | [Composite likelihood methods and surroundings](talks/25-02-2022-Giuseppe-Alfonzetti.html) |
 | 11-03-2022 | Shakeel Gavioli-Akilagun | time series | [Robust inference for change points using confidence sets](talks/11-03-2022-Shakeel-Gavioli-Akilagun.html) |
 | 25-03-2022 | Xinyi Liu | social statistics | TBA | 
+| 31-03-2022 | Zezhun Chen | probability | TBA | 
 
 
 ### Previous Talks
