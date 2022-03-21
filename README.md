@@ -9,7 +9,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | 11-02-2022 | Sahoko Ishida | social statistics | [Gaussian Process Models for Spatial and Spatio-temporal Data](talks/11-02-2022-Sahoko-Ishida.html) |
 | 25-02-2022 | Giuseppe Alfonzetti | social statistics | [Composite likelihood methods and surroundings](talks/25-02-2022-Giuseppe-Alfonzetti.html) |
 | 11-03-2022 | Shakeel Gavioli-Akilagun | time series | [Robust inference for change points using confidence sets](talks/11-03-2022-Shakeel-Gavioli-Akilagun.html) |
-| 25-03-2022 | Xinyi Liu | social statistics | TBA | 
+| 25-03-2022 | Xinyi Liu | social statistics | [Rotation to Sparse Loadings using L^p Functions ](talks/25-03-2022-Xinyi-Liu.html) | 
 | 01-04-2022 | Wenyu Cheng | time series | TBA | 
 
 
