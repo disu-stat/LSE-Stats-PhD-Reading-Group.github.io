@@ -1,6 +1,6 @@
 ## About
 
-Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. Anyone wanting to attend the reading group without presenting their work is also very welcome!If you are interested in joining us to discuss your research feel free to email [Patrick](mailto:p.Aschermayr@lse.ac.uk), [Camilo](mailto:c.a.cardenas-hurtado@lse.ac.uk), or [Shakeel](mailto:s.a.gavioli-akilagun@lse.ac.uk).
+Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. Anyone wanting to attend the reading group without presenting their work is also very welcome! If you are interested in joining us to discuss your research feel free to [email](mailto:s.a.gavioli-akilagun@lse.ac.uk).
 
 ### Upcoming Talks
 
@@ -10,7 +10,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | 25-02-2022 | Giuseppe Alfonzetti | social statistics | [Composite likelihood methods and surroundings](talks/25-02-2022-Giuseppe-Alfonzetti.html) |
 | 11-03-2022 | Shakeel Gavioli-Akilagun | time series | [Robust inference for change points using confidence sets](talks/11-03-2022-Shakeel-Gavioli-Akilagun.html) |
 | 25-03-2022 | Xinyi Liu | social statistics | [Rotation to Sparse Loadings using L^p Functions ](talks/25-03-2022-Xinyi-Liu.html) | 
-| 01-04-2022 | Wenyu Cheng | time series | TBA | 
+| 01-04-2022 | Wenyu Cheng | time series | [Robust mean estimation (and beyond)](talks/01-04-2022-Wenyu-Cheng.html) | 
 
 
 ### Previous Talks
