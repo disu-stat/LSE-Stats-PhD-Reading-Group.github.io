@@ -4,18 +4,12 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 ### Upcoming Talks
 
-| Date | Speaker | Research Group | Topic |
-|---|---|---|---|
-| 11-02-2022 | Sahoko Ishida | social statistics | [Gaussian Process Models for Spatial and Spatio-temporal Data](talks/11-02-2022-Sahoko-Ishida.html) |
-| 25-02-2022 | Giuseppe Alfonzetti | social statistics | [Composite likelihood methods and surroundings](talks/25-02-2022-Giuseppe-Alfonzetti.html) |
-| 11-03-2022 | Shakeel Gavioli-Akilagun | time series | [Robust inference for change points using confidence sets](talks/11-03-2022-Shakeel-Gavioli-Akilagun.html) |
-| 25-03-2022 | Xinyi Liu | social statistics | [Rotation to Sparse Loadings using L^p Functions ](talks/25-03-2022-Xinyi-Liu.html) | 
-| 01-04-2022 | Wenyu Cheng | time series | [Robust mean estimation (and beyond)](talks/01-04-2022-Wenyu-Cheng.html) | 
-
+Check again in Michaelmas term 2022. 
 
 ### Previous Talks
 
 * [Michaelmas Term 2021/22](past_terms/MT-2021.html)
+* [Lent Term 2021/22](past_terms/LT-2022.html)
 
 ### Advice for speakers
 
