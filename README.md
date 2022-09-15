@@ -6,10 +6,15 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 Check again in Michaelmas term 2022. 
 
+| Date | Speaker | Research Group | Topic |
+|---|---|---|---|
+| week 6 | Xuzhi Yang | Data Science | TBA |
+| week 8 | Qin Fang | Time Series | TBA |
+| week 10 | Zetai Chen | Time Series | TBA |
 ### Previous Talks
 
-* [Michaelmas Term 2021/22](past_terms/MT-2021.html)
-* [Lent Term 2021/22](past_terms/LT-2022.html)
+* [Michaelmas Term 2021](past_terms/MT-2021.html)
+* [Lent Term 2022](past_terms/LT-2022.html)
 
 ### Advice for speakers
 
