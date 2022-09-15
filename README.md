@@ -4,8 +4,6 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 ### Upcoming Talks
 
-Check again in Michaelmas term 2022. 
-
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
 | week 6 | Xuzhi Yang | Data Science | TBA |
