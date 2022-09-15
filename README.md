@@ -11,6 +11,7 @@ Check again in Michaelmas term 2022.
 | week 6 | Xuzhi Yang | Data Science | TBA |
 | week 8 | Qin Fang | Time Series | TBA |
 | week 10 | Zetai Chen | Time Series | TBA |
+
 ### Previous Talks
 
 * [Michaelmas Term 2021](past_terms/MT-2021.html)
