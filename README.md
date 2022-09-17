@@ -9,7 +9,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | week 4 | Tao Ma | Data Science | TBA |
 | week 6 | Xuzhi Yang | Data Science | TBA |
 | week 8 | Qin Fang | Time Series | TBA |
-| week 10 | Zetai Chen | Time Series | TBA |
+| week 10 | Zetai Cen | Time Series | TBA |
 
 ### Previous Talks
 
