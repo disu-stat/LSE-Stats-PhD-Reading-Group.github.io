@@ -6,10 +6,10 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| week 4 | Tao Ma | Data Science | [Games with Representation Learning](talks/20-10-2022-Tao-Ma.html) |
-| week 6 | Xuzhi Yang | Data Science | TBA |
-| week 8 | Qin Fang | Time Series | TBA |
-| week 10 | Zetai Cen | Time Series | TBA |
+| 20-10-2022 | Tao Ma | Data Science | [Games with Representation Learning](talks/20-10-2022-Tao-Ma.html) |
+| 03-11-2022 | Xuzhi Yang | Data Science | [Multivariate rank, quantile and regression via optimal transport](talks/03-11-2022-Xuzhi-Yang.html) |
+| 17-11-2022 | Qin Fang | Time Series | TBA |
+| 01-12-2022 | Zetai Cen | Time Series | TBA |
 
 ### Previous Talks
 
