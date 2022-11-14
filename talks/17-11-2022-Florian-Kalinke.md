@@ -1,4 +1,4 @@
-# Scalable Online Change Detection for High-dimensional Data Stream 
+# Scalable Online Change Detection for High-dimensional Data Streams
 
 We discuss a subsampling scheme on data streams to approximate the Maximum Mean Discrepancy of data in buckets of exponential size in an efficient manner. In particular, we introduce
 
