@@ -8,7 +8,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 |---|---|---|---|
 | 20-10-2022 | Tao Ma | Data Science | [Games with Representation Learning](talks/20-10-2022-Tao-Ma.html) |
 | 03-11-2022 | Xuzhi Yang | Data Science | [Multivariate rank, quantile and regression via optimal transport](talks/03-11-2022-Xuzhi-Yang.html) |
-| 17-11-2022 | Qin Fang | Time Series | TBA |
+| 17-11-2022 | Florian Kalinke | Visiting from Karlsruhe Institute of Technology | [Scalable Online Change Detection for High-dimensional Data Streams](talks/17-11-2022-Florian-Kalinke.html) |
 | 01-12-2022 | Zetai Cen | Time Series | TBA |
 
 ### Previous Talks
