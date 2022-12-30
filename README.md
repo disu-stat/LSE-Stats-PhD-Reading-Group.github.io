@@ -4,17 +4,16 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 ### Upcoming Talks
 
+Check again in Lent term 2023! 
+
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 20-10-2022 | Tao Ma | Data Science | [Games with Representation Learning](talks/20-10-2022-Tao-Ma.html) |
-| 03-11-2022 | Xuzhi Yang | Data Science | [Multivariate rank, quantile and regression via optimal transport](talks/03-11-2022-Xuzhi-Yang.html) |
-| 17-11-2022 | Florian Kalinke | Visiting from Karlsruhe Institute of Technology | [Scalable Online Change Detection for High-dimensional Data Streams](talks/17-11-2022-Florian-Kalinke.html) |
-| 01-12-2022 | Zetai Cen | Time Series | [Fundamentals of tensors (and beyond)](talks/01-12-2022-Zetai-Cen.html) |
 
 ### Previous Talks
 
 * [Michaelmas Term 2021](past_terms/MT-2021.html)
 * [Lent Term 2022](past_terms/LT-2022.html)
+* [Michaelmas Term 2022](past_terms/MT-2022.html)
 
 ### Advice for speakers
 
