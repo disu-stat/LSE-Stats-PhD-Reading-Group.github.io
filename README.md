@@ -6,9 +6,6 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 Check again in Lent term 2023! 
 
-| Date | Speaker | Research Group | Topic |
-|---|---|---|---|
-
 ### Previous Talks
 
 * [Michaelmas Term 2021](past_terms/MT-2021.html)
