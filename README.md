@@ -7,8 +7,8 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
 | week 4 | Liyuan Hu | data science | TBA |
-| week 6 | Dr Jie Li | stats department research officer | TBA |
-| week 8 | Dr Yudong Chen | stats department research officer | TBA |
+| week 6 | Dr Yudong Chen |	data science | TBA |
+| week 8 | Dr Jie Li | time series | TBA |
 
 ### Previous Talks
 
