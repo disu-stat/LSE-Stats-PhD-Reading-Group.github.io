@@ -6,7 +6,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| week 2 | Shakeel Gavioli-Akilagun | [On weak convergence of dyadic scans](talks/26-01-2023-Shakeel-Gavioli-Akilagun.html) |
+| week 2 | Shakeel Gavioli-Akilagun | time series | [On weak convergence of dyadic scans](talks/26-01-2023-Shakeel-Gavioli-Akilagun.html) |
 | week 4 | Liyuan Hu | data science | [Doubly Inhomogeneous Reinforcement Learning](talks/09-02-2023-Liyuan-Hu.html) |
 | week 6 | Dr Yudong Chen | data science | TBA |
 | week 8 | Dr Jie Li | time series | [Automatic Change-Point Detection in Time Series via Deep Learning](09-03-2023-Jie-Li.html) |
