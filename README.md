@@ -9,7 +9,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | 26-01-2023 | Shakeel Gavioli-Akilagun | time series | [On weak convergence of dyadic scans](talks/26-01-2023-Shakeel-Gavioli-Akilagun.html) |
 | 09-02-2023 | Liyuan Hu | data science | [Doubly Inhomogeneous Reinforcement Learning](talks/09-02-2023-Liyuan-Hu.html) |
 | 23-02-2023 | Dr Yudong Chen | data science | TBA |
-| 09-03-2023 | Dr Jie Li | time series | [Automatic Change-Point Detection in Time Series via Deep Learning](09-03-2023-Jie-Li.html) |
+| 09-03-2023 | Dr Jie Li | time series | [Automatic Change-Point Detection in Time Series via Deep Learning](talks/09-03-2023-Jie-Li.html) |
 
 ### Previous Talks
 
