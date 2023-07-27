@@ -4,7 +4,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 ### Upcoming Talks
 
-Check back next term!
+Check back next term for the 2023 Michaelmas Term (or Autumn Term now)!
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
