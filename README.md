@@ -1,6 +1,6 @@
 ## About
 
-Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. Anyone wanting to attend the reading group without presenting their work is also very welcome! If you are interested in joining us to discuss your research feel free to [email](mailto:s.a.gavioli-akilagun@lse.ac.uk).
+Every fortnight we meet to talk informally about open problems in our research. Some past and upcoming talks are given below. Anyone wanting to attend the reading group without presenting their work is also very welcome! If you are interested in joining us to discuss your research feel free to [email](mailto:z.cen@lse.ac.uk).
 
 ### Upcoming Talks
 
