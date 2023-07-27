@@ -8,6 +8,7 @@ Check back next term!
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
+| | | | |
 
 ### Previous Talks
 
