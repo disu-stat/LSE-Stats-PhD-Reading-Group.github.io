@@ -8,7 +8,8 @@ Check back next term for the 2023 Michaelmas Term (or Autumn Term now)!
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| | | | |
+| xx-xx-2023 | Pingfan Su | data science | [Minimax gradient boosting in causal inference](talks/xx-xx-2023-Pingfan-Su.html) |
+
 
 ### Previous Talks
 
