@@ -8,7 +8,7 @@ Check back next term for the 2023 Michaelmas Term (or Autumn Term now)!
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 12-10-2023 | Zetai Cen | time series | [Missing value imputation for tensor time series](talks/xx-xx-2023-Zetai-Cen.html) |
+| 12-10-2023 | Zetai Cen | time series | [Missing value imputation for tensor time series](talks/12-10-2023-Zetai-Cen.html) |
 | xx-xx-2023 | Pingfan Su | data science | [Minimax gradient boosting in causal inference](talks/xx-xx-2023-Pingfan-Su.html) |
 | xx-xx-2023 | Shakeel Gavioli-Akilagun | time series | [An introduction to change point detection](talks/xx-xx-2023-Shakeel-Gavioli-Akilagun.html) |
 
