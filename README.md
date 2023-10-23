@@ -8,8 +8,8 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
 | 12-10-2023 | Zetai Cen | time series | [Missing value imputation for tensor time series](talks/12-10-2023-Zetai-Cen.html) |
-| 26-10-2023 | Pingfan Su | data science | [Minimax gradient boosting in causal inference](talks/xx-xx-2023-Pingfan-Su.html) |
-| 09-11-2023 | Shakeel Gavioli-Akilagun | time series | [An introduction to change point detection](talks/xx-xx-2023-Shakeel-Gavioli-Akilagun.html) |
+| 26-10-2023 | Pingfan Su | data science | [Minimax gradient boosting in causal inference](talks/26-10-2023-Pingfan-Su.html) |
+| 09-11-2023 | Shakeel Gavioli-Akilagun | time series | [An introduction to change point detection](talks/09-11-2023-Shakeel-Gavioli-Akilagun.html) |
 
 
 ### Previous Talks
