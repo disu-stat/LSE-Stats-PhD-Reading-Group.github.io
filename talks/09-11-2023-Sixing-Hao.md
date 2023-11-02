@@ -1,0 +1,3 @@
+# Permutation Tests for Identifying Number of Factors for High-Dimensional Time Series
+
+Factor modelling for high-dimensional time series data has been used as an effective dimension reduction method. This project studies the latent lower-dimensional factor process within the factor model, and focuses on developing new method for identifying number of factors. The proposed method involves eigenanalysis on N by N non-negative definite matrix, and permutation tests on serial dependence of time series. The proposed estimator allows the dimension P of observed data to be greater than length N of the observed data, and is robust when strength of factors are not at the same level. 
