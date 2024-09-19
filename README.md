@@ -7,10 +7,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 25-01-2024 | Shakeel Gavioli-Akilagun | time series | [An introduction to change point detection](talks/25-01-2024-Shakeel-Gavioli-Akilagun.html) |
-| 08-02-2024 | Lin Yang | time series | [Gaussian approximation for high dimensional time series: an application to mean testing](talks/08-02-2024-Lin-Yang.html) |
-| 29-02-2024 | Mohammad Fadil Sumun | probability in finance and insurance | [Pricing Parisian options](talks/29-02-2024-Mohammad-Fadil-Sumun.html) |
-| 14-03-2024 | Jin Zhu | data science | [Pessimistic Pseudo-Labeling for Semi-Supervised Offline Reinforcement Learning](talks/14-03-2024-Jin-Zhu.html) |
+| 17-10-2024 | Di Su | time series | [Change region detection on d-dimensional spheres](talks/17-10-2024-Di-Su.html) |
 
 
 ### Previous Talks
@@ -20,6 +17,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 * [Michaelmas Term 2022](past_terms/MT-2022.html)
 * [Lent Term 2023](past_terms/LT-2023.html)
 * [Autumn Term 2023](past_terms/AT-2023.html)
+* [Winter Term 2024](past_terms/WT-2024.html)
 
 ### Advice for speakers
 
