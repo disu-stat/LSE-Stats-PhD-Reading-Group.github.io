@@ -1,0 +1,3 @@
+# Determining number of factors under stability considerations
+
+This paper proposes a novel method for determining the number of factors in linear factor models under stability considerations. An instability measure is proposed based on the principal angle between the estimated loading spaces obtained by data splitting. Based on this measure, criteria for determining the number of factors are proposed and shown to be consistent. This consistency is obtained using results from random matrix theory, especially the complete delocalization of non-outlier eigenvectors. The advantage of the proposed methods over the existing ones is shown via weaker asymptotic requirements for consistency, simulation studies and a real data example.
