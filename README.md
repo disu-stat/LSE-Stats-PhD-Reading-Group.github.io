@@ -9,6 +9,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 |---|---|---|---|
 | 17-10-2024 | Di Su | time series | [Change region detection on d-dimensional spheres](talks/17-10-2024-Di-Su.html) |
 | 14-11-2024 | Sze Ming Lee | social statistics | [Determining number of factors under stability considerations](talks/14-11-2024-Sze-Ming-Lee.html) |
+| 28-11-2024 | Zetai Cen | time series | [Testing main-effect matrix factor models from two-way matrix factor models](talks/28-11-2024-Zetai-Cen.html) |
 
 
 ### Previous Talks
