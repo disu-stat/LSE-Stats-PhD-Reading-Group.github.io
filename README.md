@@ -7,9 +7,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
-| 17-10-2024 | Di Su | time series | [Change region detection on d-dimensional spheres](talks/17-10-2024-Di-Su.html) |
-| 14-11-2024 | Sze Ming Lee | social statistics | [Determining number of factors under stability considerations](talks/14-11-2024-Sze-Ming-Lee.html) |
-| 28-11-2024 | Zetai Cen | time series | [Testing main-effect matrix factor models from two-way matrix factor models](talks/28-11-2024-Zetai-Cen.html) |
+| 07-02-2025 | Pietro Maria Sparago | probability | [Small-time functional limit theorems for Itô diffusion processes](talks/07-02-2025-Pietro-Maria-Sparago.html) |
 
 
 ### Previous Talks
@@ -20,6 +18,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 * [Lent Term 2023](past_terms/LT-2023.html)
 * [Autumn Term 2023](past_terms/AT-2023.html)
 * [Winter Term 2024](past_terms/WT-2024.html)
+* [Autumn Term 2024](past_terms/AT-2024.html)
 
 ### Advice for speakers
 
