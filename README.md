@@ -8,6 +8,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 | Date | Speaker | Research Group | Topic |
 |---|---|---|---|
 | 07-02-2025 | Pietro Maria Sparago | probability | [Small-time functional limit theorems for Itô diffusion processes](talks/07-02-2025-Pietro-Maria-Sparago.html) |
+| 19-02-2025 | Xuewen Yu | data science | [A Hierarchical Bayesian Structural Time Series model for inferring causal impact of policy implantation on mental health](talks/19-02-2025-Xuewen-Yu.html) |
 
 
 ### Previous Talks
