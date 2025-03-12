@@ -22,6 +22,7 @@ Every fortnight we meet to talk informally about open problems in our research. 
 * [Autumn Term 2023](past_terms/AT-2023.html)
 * [Winter Term 2024](past_terms/WT-2024.html)
 * [Autumn Term 2024](past_terms/AT-2024.html)
+* [Winter Term 2025](past_terms/WT-2024_2025.html)
 
 ### Advice for speakers
 
